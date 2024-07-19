@@ -1,0 +1,21 @@
+//1678. Goal Parser Interpretation
+
+class Solution {
+    public String interpret(String command) {
+        StringBuffer res = new StringBuffer();
+        for(int i = 0; i < command.length(); i++) {
+            if(command.charAt(i) == 'G') {
+                res.append("G");
+            } else if(command.charAt(i) == '(') {
+                if(command.charAt(i+1) == ')') {
+                    res.append("o");
+                    i++;
+                } else if(command.charAt(i+1) == 'a' && command.charAt(i+2) == 'l') {
+                    res.append("al");
+                    i += 3;
+                }
+            }
+        }
+        return res.toString();
+    }
+}
