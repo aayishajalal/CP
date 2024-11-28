@@ -8,11 +8,13 @@
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
+| [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
 ## Backtracking
 |  |
 | ------- |
