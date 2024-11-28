@@ -15,6 +15,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/aayishajalal/CP/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/aayishajalal/CP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
@@ -46,6 +47,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/aayishajalal/CP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
@@ -126,6 +128,7 @@
 | ------- |
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/aayishajalal/CP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
