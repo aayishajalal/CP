@@ -17,6 +17,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/aayishajalal/CP/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayishajalal/CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/aayishajalal/CP/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayishajalal/CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Backtracking
 |  |
 | ------- |
