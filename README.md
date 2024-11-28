@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +46,12 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aayishajalal/CP/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
