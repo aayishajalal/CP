@@ -9,6 +9,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/aayishajalal/CP/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
@@ -124,6 +126,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -143,6 +146,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
@@ -156,6 +160,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 ## Counting Sort
 |  |
