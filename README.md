@@ -35,6 +35,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/aayishajalal/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/aayishajalal/CP/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/aayishajalal/CP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/aayishajalal/CP/tree/master/1751-slowest-key) |
@@ -178,6 +179,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/aayishajalal/CP/tree/master/1031-add-to-array-form-of-integer) |
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/aayishajalal/CP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Geometry
 |  |
 | ------- |
