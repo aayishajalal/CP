@@ -14,6 +14,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/aayishajalal/CP/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/aayishajalal/CP/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/aayishajalal/CP/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
@@ -71,6 +72,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aayishajalal/CP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aayishajalal/CP/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/aayishajalal/CP/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/aayishajalal/CP/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/aayishajalal/CP/tree/master/1256-rank-transform-of-an-array) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -158,6 +161,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/aayishajalal/CP/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 ## Geometry
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/aayishajalal/CP/tree/master/1217-relative-sort-array) |
+## Number Theory
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
