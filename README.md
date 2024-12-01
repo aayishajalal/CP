@@ -22,6 +22,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/aayishajalal/CP/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
+| [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/aayishajalal/CP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aayishajalal/CP/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
+| [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
@@ -182,6 +184,7 @@
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
+| [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 ## Counting Sort
 |  |
