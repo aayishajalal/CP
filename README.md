@@ -52,6 +52,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aayishajalal/CP/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,4 +217,12 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/aayishajalal/CP/tree/master/1039-find-the-town-judge) |
+## Binary Search
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
