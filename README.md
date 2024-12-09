@@ -140,6 +140,7 @@
 | [0022-generate-parentheses](https://github.com/aayishajalal/CP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
@@ -192,6 +193,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/aayishajalal/CP/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/aayishajalal/CP/tree/master/1031-add-to-array-form-of-integer) |
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -264,4 +267,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayishajalal/CP/tree/master/0789-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
