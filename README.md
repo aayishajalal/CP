@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
@@ -107,6 +108,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
+| [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
