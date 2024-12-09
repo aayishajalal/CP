@@ -103,6 +103,7 @@
 | [0022-generate-parentheses](https://github.com/aayishajalal/CP/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aayishajalal/CP/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -169,6 +170,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aayishajalal/CP/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -177,6 +179,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/aayishajalal/CP/tree/master/0944-smallest-range-i) |
