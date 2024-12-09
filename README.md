@@ -238,4 +238,16 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
