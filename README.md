@@ -276,4 +276,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1338-queries-quality-and-percentage](https://github.com/aayishajalal/CP/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
