@@ -41,6 +41,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/aayishajalal/CP/tree/master/1751-slowest-key) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/aayishajalal/CP/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayishajalal/CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -78,6 +79,7 @@
 | [1306-minimum-absolute-difference](https://github.com/aayishajalal/CP/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aayishajalal/CP/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
@@ -178,6 +181,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/aayishajalal/CP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aayishajalal/CP/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
@@ -238,11 +242,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
 ## Recursion
 |  |
