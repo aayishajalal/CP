@@ -370,6 +370,7 @@
 | ------- |
 | [1338-queries-quality-and-percentage](https://github.com/aayishajalal/CP/tree/master/1338-queries-quality-and-percentage) |
 | [2110-employees-with-missing-information](https://github.com/aayishajalal/CP/tree/master/2110-employees-with-missing-information) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/aayishajalal/CP/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Enumeration
 |  |
 | ------- |
