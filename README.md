@@ -78,6 +78,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/aayishajalal/CP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aayishajalal/CP/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/aayishajalal/CP/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/aayishajalal/CP/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
@@ -102,6 +103,7 @@
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/aayishajalal/CP/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/aayishajalal/CP/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
 |  |
 | ------- |
