@@ -73,6 +73,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/aayishajalal/CP/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/aayishajalal/CP/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
@@ -264,6 +265,7 @@
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/aayishajalal/CP/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/aayishajalal/CP/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aayishajalal/CP/tree/master/2154-minimum-moves-to-convert-string) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/aayishajalal/CP/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
