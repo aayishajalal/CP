@@ -17,6 +17,7 @@
 | [0057-insert-interval](https://github.com/aayishajalal/CP/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aayishajalal/CP/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -105,6 +106,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aayishajalal/CP/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/aayishajalal/CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/aayishajalal/CP/tree/master/0965-unique-email-addresses) |
@@ -259,6 +261,7 @@
 | [0048-rotate-image](https://github.com/aayishajalal/CP/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/aayishajalal/CP/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
