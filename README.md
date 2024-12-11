@@ -178,6 +178,7 @@
 | [0077-combinations](https://github.com/aayishajalal/CP/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/aayishajalal/CP/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -250,6 +252,7 @@
 | [0048-rotate-image](https://github.com/aayishajalal/CP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aayishajalal/CP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aayishajalal/CP/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/aayishajalal/CP/tree/master/0944-smallest-range-i) |
