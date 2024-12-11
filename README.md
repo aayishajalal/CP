@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/aayishajalal/CP/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/aayishajalal/CP/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/aayishajalal/CP/tree/master/0046-permutations) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -146,6 +147,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aayishajalal/CP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aayishajalal/CP/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/aayishajalal/CP/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/aayishajalal/CP/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
