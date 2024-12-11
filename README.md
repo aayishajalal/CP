@@ -168,6 +168,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/aayishajalal/CP/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aayishajalal/CP/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
@@ -227,6 +228,7 @@
 | [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aayishajalal/CP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aayishajalal/CP/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aayishajalal/CP/tree/master/0062-unique-paths) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/aayishajalal/CP/tree/master/0944-smallest-range-i) |
@@ -331,4 +333,8 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayishajalal/CP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aayishajalal/CP/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aayishajalal/CP/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
