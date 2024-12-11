@@ -189,6 +189,7 @@
 | [2226-rings-and-rods](https://github.com/aayishajalal/CP/tree/master/2226-rings-and-rods) |
 | [2235-capitalize-the-title](https://github.com/aayishajalal/CP/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/aayishajalal/CP/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/aayishajalal/CP/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
@@ -286,6 +287,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aayishajalal/CP/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/aayishajalal/CP/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
