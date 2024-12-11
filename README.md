@@ -131,6 +131,7 @@
 | [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/aayishajalal/CP/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/aayishajalal/CP/tree/master/0071-simplify-path) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 ## Sliding Window
 |  |
