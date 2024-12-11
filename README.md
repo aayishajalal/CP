@@ -175,6 +175,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/aayishajalal/CP/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/aayishajalal/CP/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/aayishajalal/CP/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
