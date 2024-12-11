@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/aayishajalal/CP/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aayishajalal/CP/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aayishajalal/CP/tree/master/0056-merge-intervals) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aayishajalal/CP/tree/master/0056-merge-intervals) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
