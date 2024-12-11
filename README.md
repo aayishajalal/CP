@@ -210,6 +210,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aayishajalal/CP/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aayishajalal/CP/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2037-count-square-sum-triples](https://github.com/aayishajalal/CP/tree/master/2037-count-square-sum-triples) |
 ## Geometry
 |  |
 | ------- |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [1338-queries-quality-and-percentage](https://github.com/aayishajalal/CP/tree/master/1338-queries-quality-and-percentage) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/aayishajalal/CP/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
