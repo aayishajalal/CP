@@ -132,6 +132,7 @@
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/aayishajalal/CP/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/aayishajalal/CP/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
@@ -172,6 +173,7 @@
 | [0055-jump-game](https://github.com/aayishajalal/CP/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aayishajalal/CP/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/aayishajalal/CP/tree/master/0072-edit-distance) |
 | [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
