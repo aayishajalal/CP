@@ -64,6 +64,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/aayishajalal/CP/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayishajalal/CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -107,6 +108,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -212,6 +214,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aayishajalal/CP/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
