@@ -200,6 +200,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/aayishajalal/CP/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aayishajalal/CP/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/aayishajalal/CP/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aayishajalal/CP/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
