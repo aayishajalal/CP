@@ -77,6 +77,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/aayishajalal/CP/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aayishajalal/CP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aayishajalal/CP/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/aayishajalal/CP/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
@@ -123,6 +124,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/aayishajalal/CP/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aayishajalal/CP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aayishajalal/CP/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/aayishajalal/CP/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
