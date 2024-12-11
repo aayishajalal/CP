@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/aayishajalal/CP/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aayishajalal/CP/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aayishajalal/CP/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
@@ -95,6 +97,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aayishajalal/CP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aayishajalal/CP/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/aayishajalal/CP/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/aayishajalal/CP/tree/master/0965-unique-email-addresses) |
@@ -120,6 +123,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/aayishajalal/CP/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
