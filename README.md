@@ -65,6 +65,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayishajalal/CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -128,6 +129,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/aayishajalal/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aayishajalal/CP/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
@@ -381,6 +383,7 @@
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/aayishajalal/CP/tree/master/2037-count-square-sum-triples) |
+| [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
 ## Linked List
 |  |
 | ------- |
