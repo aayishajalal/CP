@@ -184,6 +184,7 @@
 | [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/aayishajalal/CP/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aayishajalal/CP/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/aayishajalal/CP/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/aayishajalal/CP/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aayishajalal/CP/tree/master/0095-unique-binary-search-trees-ii) |
 | [1013-fibonacci-number](https://github.com/aayishajalal/CP/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
@@ -333,16 +335,19 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aayishajalal/CP/tree/master/0095-unique-binary-search-trees-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayishajalal/CP/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aayishajalal/CP/tree/master/0095-unique-binary-search-trees-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayishajalal/CP/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aayishajalal/CP/tree/master/0095-unique-binary-search-trees-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayishajalal/CP/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
