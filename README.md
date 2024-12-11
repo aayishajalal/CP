@@ -67,6 +67,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/aayishajalal/CP/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2159-two-out-of-three](https://github.com/aayishajalal/CP/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -112,6 +113,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/aayishajalal/CP/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aayishajalal/CP/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/aayishajalal/CP/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/aayishajalal/CP/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aayishajalal/CP/tree/master/2154-minimum-moves-to-convert-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
@@ -316,6 +319,7 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/aayishajalal/CP/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/aayishajalal/CP/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Number Theory
 |  |
 | ------- |
