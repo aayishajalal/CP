@@ -67,6 +67,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
+| [2159-two-out-of-three](https://github.com/aayishajalal/CP/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -132,6 +133,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aayishajalal/CP/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
+| [2159-two-out-of-three](https://github.com/aayishajalal/CP/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
@@ -231,6 +233,7 @@
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2159-two-out-of-three](https://github.com/aayishajalal/CP/tree/master/2159-two-out-of-three) |
 ## Counting
 |  |
 | ------- |
