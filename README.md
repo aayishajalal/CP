@@ -74,6 +74,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/aayishajalal/CP/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/aayishajalal/CP/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
@@ -117,6 +118,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/aayishajalal/CP/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/aayishajalal/CP/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -348,6 +350,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/aayishajalal/CP/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
 ## Prefix Sum
