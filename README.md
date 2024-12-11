@@ -20,6 +20,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -137,6 +138,7 @@
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/aayishajalal/CP/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aayishajalal/CP/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
@@ -170,6 +172,7 @@
 | [0047-permutations-ii](https://github.com/aayishajalal/CP/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/aayishajalal/CP/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
