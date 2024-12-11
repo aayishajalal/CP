@@ -146,6 +146,7 @@
 | [0072-edit-distance](https://github.com/aayishajalal/CP/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/aayishajalal/CP/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/aayishajalal/CP/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
@@ -182,6 +183,7 @@
 | [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/aayishajalal/CP/tree/master/0093-restore-ip-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
