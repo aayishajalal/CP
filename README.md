@@ -78,6 +78,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/aayishajalal/CP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aayishajalal/CP/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/aayishajalal/CP/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2308-divide-array-into-equal-pairs](https://github.com/aayishajalal/CP/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aayishajalal/CP/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
@@ -153,6 +154,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aayishajalal/CP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/aayishajalal/CP/tree/master/2226-rings-and-rods) |
+| [2308-divide-array-into-equal-pairs](https://github.com/aayishajalal/CP/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -257,6 +259,7 @@
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2159-two-out-of-three](https://github.com/aayishajalal/CP/tree/master/2159-two-out-of-three) |
+| [2308-divide-array-into-equal-pairs](https://github.com/aayishajalal/CP/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2308-divide-array-into-equal-pairs](https://github.com/aayishajalal/CP/tree/master/2308-divide-array-into-equal-pairs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aayishajalal/CP/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
