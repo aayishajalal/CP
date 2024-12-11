@@ -79,6 +79,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayishajalal/CP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aayishajalal/CP/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aayishajalal/CP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
@@ -358,6 +359,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayishajalal/CP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aayishajalal/CP/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aayishajalal/CP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Combinatorics
 |  |
 | ------- |
