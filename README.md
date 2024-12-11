@@ -164,6 +164,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aayishajalal/CP/tree/master/0029-divide-two-integers) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aayishajalal/CP/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/aayishajalal/CP/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
