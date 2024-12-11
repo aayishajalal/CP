@@ -18,6 +18,7 @@
 | [0059-spiral-matrix-ii](https://github.com/aayishajalal/CP/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -262,6 +263,7 @@
 | [0059-spiral-matrix-ii](https://github.com/aayishajalal/CP/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
@@ -288,6 +290,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
