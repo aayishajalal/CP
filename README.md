@@ -293,6 +293,7 @@
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aayishajalal/CP/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/aayishajalal/CP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
@@ -317,6 +318,7 @@
 | [2037-count-square-sum-triples](https://github.com/aayishajalal/CP/tree/master/2037-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/aayishajalal/CP/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/aayishajalal/CP/tree/master/2288-count-operations-to-obtain-zero) |
 ## Geometry
 |  |
 | ------- |
