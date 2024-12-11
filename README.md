@@ -15,6 +15,7 @@
 | [0055-jump-game](https://github.com/aayishajalal/CP/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aayishajalal/CP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aayishajalal/CP/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/aayishajalal/CP/tree/master/0059-spiral-matrix-ii) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aayishajalal/CP/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/aayishajalal/CP/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aayishajalal/CP/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/aayishajalal/CP/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aayishajalal/CP/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/aayishajalal/CP/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
