@@ -72,6 +72,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/aayishajalal/CP/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
@@ -273,6 +274,7 @@
 | [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aayishajalal/CP/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
+| [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
@@ -423,4 +425,8 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
