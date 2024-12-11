@@ -312,6 +312,7 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/aayishajalal/CP/tree/master/1039-find-the-town-judge) |
+| [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -383,4 +384,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aayishajalal/CP/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
