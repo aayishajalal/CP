@@ -19,6 +19,7 @@
 | [0063-unique-paths-ii](https://github.com/aayishajalal/CP/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -168,6 +169,7 @@
 | [0046-permutations](https://github.com/aayishajalal/CP/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aayishajalal/CP/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/aayishajalal/CP/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aayishajalal/CP/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
