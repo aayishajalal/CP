@@ -65,6 +65,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayishajalal/CP/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -129,6 +130,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/aayishajalal/CP/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aayishajalal/CP/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/aayishajalal/CP/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -234,6 +236,7 @@
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aayishajalal/CP/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/aayishajalal/CP/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aayishajalal/CP/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
