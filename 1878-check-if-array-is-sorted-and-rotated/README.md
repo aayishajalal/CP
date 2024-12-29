@@ -62,7 +62,7 @@ class Solution {
     }
 }
 </pre>
-
+<p>Without Circular checks modulo operations</p>
 <pre>
 class Solution {
     public boolean check(int[] nums) {
