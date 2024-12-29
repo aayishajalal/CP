@@ -41,7 +41,7 @@ You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
 
 
 <h1>Solution</h1>
-<prev>
+<pre>
 
  class Solution {
     public boolean check(int[] nums) {
@@ -60,4 +60,4 @@ You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
         return true;
     }
 }
-</prev>
+</pre>
