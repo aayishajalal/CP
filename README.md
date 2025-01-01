@@ -188,6 +188,7 @@
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/aayishajalal/CP/tree/master/0981-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aayishajalal/CP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aayishajalal/CP/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1751-slowest-key](https://github.com/aayishajalal/CP/tree/master/1751-slowest-key) |
@@ -392,6 +393,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aayishajalal/CP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aayishajalal/CP/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
