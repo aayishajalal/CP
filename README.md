@@ -84,6 +84,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aayishajalal/CP/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aayishajalal/CP/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/aayishajalal/CP/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/aayishajalal/CP/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aayishajalal/CP/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -398,6 +399,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aayishajalal/CP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aayishajalal/CP/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2358-number-of-ways-to-split-array](https://github.com/aayishajalal/CP/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aayishajalal/CP/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
 ## Recursion
