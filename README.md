@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aayishajalal/CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/aayishajalal/CP/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/aayishajalal/CP/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aayishajalal/CP/tree/master/0046-permutations) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayishajalal/CP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aayishajalal/CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/aayishajalal/CP/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aayishajalal/CP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
