@@ -57,6 +57,7 @@
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aayishajalal/CP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1524-string-matching-in-an-array](https://github.com/aayishajalal/CP/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aayishajalal/CP/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1751-slowest-key](https://github.com/aayishajalal/CP/tree/master/1751-slowest-key) |
@@ -191,6 +192,7 @@
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/aayishajalal/CP/tree/master/0981-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1524-string-matching-in-an-array](https://github.com/aayishajalal/CP/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aayishajalal/CP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aayishajalal/CP/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -482,4 +484,8 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/aayishajalal/CP/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
