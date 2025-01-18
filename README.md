@@ -58,6 +58,7 @@
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aayishajalal/CP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/aayishajalal/CP/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aayishajalal/CP/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -377,6 +378,7 @@
 | [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -392,10 +394,12 @@
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayishajalal/CP/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/aayishajalal/CP/tree/master/1127-last-stone-weight) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/aayishajalal/CP/tree/master/1039-find-the-town-judge) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
@@ -483,6 +487,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -496,4 +501,8 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/aayishajalal/CP/tree/master/1524-string-matching-in-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
