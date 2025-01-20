@@ -92,6 +92,7 @@
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aayishajalal/CP/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aayishajalal/CP/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aayishajalal/CP/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -170,6 +171,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aayishajalal/CP/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
+| [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
@@ -379,6 +381,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
 ## Counting Sort
 |  |
 | ------- |
