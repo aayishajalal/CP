@@ -56,6 +56,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aayishajalal/CP/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aayishajalal/CP/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
+| [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aayishajalal/CP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/aayishajalal/CP/tree/master/1502-construct-k-palindrome-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aayishajalal/CP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -380,6 +382,7 @@
 | [1041-available-captures-for-rook](https://github.com/aayishajalal/CP/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
+| [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
 ## Counting Sort
@@ -486,15 +489,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
 ## Queue
 |  |
