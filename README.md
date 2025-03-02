@@ -24,6 +24,7 @@
 | [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
@@ -110,6 +111,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aayishajalal/CP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aayishajalal/CP/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aayishajalal/CP/tree/master/0125-valid-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
@@ -125,6 +127,7 @@
 | [0018-4sum](https://github.com/aayishajalal/CP/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aayishajalal/CP/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
