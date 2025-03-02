@@ -96,6 +96,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aayishajalal/CP/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aayishajalal/CP/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aayishajalal/CP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
@@ -117,6 +118,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/aayishajalal/CP/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aayishajalal/CP/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aayishajalal/CP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [2502-sort-the-people](https://github.com/aayishajalal/CP/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/aayishajalal/CP/tree/master/2547-odd-string-difference) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aayishajalal/CP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
