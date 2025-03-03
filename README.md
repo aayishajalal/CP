@@ -86,6 +86,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/aayishajalal/CP/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aayishajalal/CP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/aayishajalal/CP/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aayishajalal/CP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/aayishajalal/CP/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aayishajalal/CP/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aayishajalal/CP/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -121,6 +122,7 @@
 | [0979-di-string-match](https://github.com/aayishajalal/CP/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/aayishajalal/CP/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aayishajalal/CP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aayishajalal/CP/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aayishajalal/CP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -342,6 +344,7 @@
 | [1386-shift-2d-grid](https://github.com/aayishajalal/CP/tree/master/1386-shift-2d-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aayishajalal/CP/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aayishajalal/CP/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/aayishajalal/CP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aayishajalal/CP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
