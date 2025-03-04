@@ -368,6 +368,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/aayishajalal/CP/tree/master/1094-matrix-cells-in-distance-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aayishajalal/CP/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aayishajalal/CP/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aayishajalal/CP/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2037-count-square-sum-triples](https://github.com/aayishajalal/CP/tree/master/2037-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/aayishajalal/CP/tree/master/2238-a-number-after-a-double-reversal) |
