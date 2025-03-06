@@ -102,6 +102,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aayishajalal/CP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/aayishajalal/CP/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
@@ -185,6 +186,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aayishajalal/CP/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aayishajalal/CP/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/aayishajalal/CP/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
@@ -373,6 +375,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/aayishajalal/CP/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aayishajalal/CP/tree/master/2288-count-operations-to-obtain-zero) |
+| [3227-find-missing-and-repeated-values](https://github.com/aayishajalal/CP/tree/master/3227-find-missing-and-repeated-values) |
 ## Geometry
 |  |
 | ------- |
@@ -399,6 +402,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/aayishajalal/CP/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aayishajalal/CP/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/aayishajalal/CP/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting Sort
 |  |
 | ------- |
