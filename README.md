@@ -375,6 +375,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/aayishajalal/CP/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aayishajalal/CP/tree/master/2288-count-operations-to-obtain-zero) |
+| [2610-closest-prime-numbers-in-range](https://github.com/aayishajalal/CP/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/aayishajalal/CP/tree/master/3227-find-missing-and-repeated-values) |
 ## Geometry
 |  |
@@ -413,6 +414,7 @@
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aayishajalal/CP/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/aayishajalal/CP/tree/master/2610-closest-prime-numbers-in-range) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
