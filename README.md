@@ -104,6 +104,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aayishajalal/CP/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aayishajalal/CP/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-special-array-ii](https://github.com/aayishajalal/CP/tree/master/3427-special-array-ii) |
+| [3483-alternating-groups-ii](https://github.com/aayishajalal/CP/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayishajalal/CP/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3483-alternating-groups-ii](https://github.com/aayishajalal/CP/tree/master/3483-alternating-groups-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
