@@ -28,6 +28,7 @@
 | [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/aayishajalal/CP/tree/master/0485-max-consecutive-ones) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
