@@ -27,6 +27,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aayishajalal/CP/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aayishajalal/CP/tree/master/0485-max-consecutive-ones) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
@@ -302,6 +303,7 @@
 | [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aayishajalal/CP/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
