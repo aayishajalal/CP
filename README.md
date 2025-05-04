@@ -27,6 +27,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/aayishajalal/CP/tree/master/0841-shortest-distance-to-a-character) |
@@ -135,6 +136,7 @@
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aayishajalal/CP/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/aayishajalal/CP/tree/master/1019-squares-of-a-sorted-array) |
@@ -162,6 +164,7 @@
 | [0036-valid-sudoku](https://github.com/aayishajalal/CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/aayishajalal/CP/tree/master/0965-unique-email-addresses) |
@@ -298,6 +301,7 @@
 | [0078-subsets](https://github.com/aayishajalal/CP/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/aayishajalal/CP/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/aayishajalal/CP/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aayishajalal/CP/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayishajalal/CP/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -365,6 +369,7 @@
 | [0050-powx-n](https://github.com/aayishajalal/CP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aayishajalal/CP/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/aayishajalal/CP/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0919-projection-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/aayishajalal/CP/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/aayishajalal/CP/tree/master/0944-smallest-range-i) |
@@ -437,6 +442,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aayishajalal/CP/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayishajalal/CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/aayishajalal/CP/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aayishajalal/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
