@@ -534,6 +534,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
 | [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/aayishajalal/CP/tree/master/1428-jump-game-iii) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
