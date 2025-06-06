@@ -295,6 +295,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aayishajalal/CP/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/aayishajalal/CP/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aayishajalal/CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 ## Sliding Window
 |  |
@@ -479,6 +480,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aayishajalal/CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aayishajalal/CP/tree/master/0095-unique-binary-search-trees-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayishajalal/CP/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -491,6 +493,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aayishajalal/CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aayishajalal/CP/tree/master/0095-unique-binary-search-trees-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayishajalal/CP/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aayishajalal/CP/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -535,6 +538,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aayishajalal/CP/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aayishajalal/CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/aayishajalal/CP/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/aayishajalal/CP/tree/master/1428-jump-game-iii) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aayishajalal/CP/tree/master/2121-find-if-path-exists-in-graph) |
