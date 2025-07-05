@@ -31,6 +31,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aayishajalal/CP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/aayishajalal/CP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aayishajalal/CP/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/aayishajalal/CP/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aayishajalal/CP/tree/master/0485-max-consecutive-ones) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
@@ -471,6 +472,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aayishajalal/CP/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aayishajalal/CP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aayishajalal/CP/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
