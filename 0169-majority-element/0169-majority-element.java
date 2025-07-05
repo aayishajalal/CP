@@ -11,6 +11,7 @@ class Solution {
                 maxLen=cur;
                 maxElem=nums[i];
             }
+            if(maxLen>nums.length/2) break;
         }
         return maxElem;
     }
