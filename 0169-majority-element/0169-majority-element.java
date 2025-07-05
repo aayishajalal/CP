@@ -1,17 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
-        int maxLen = 1, cur=1, maxElem=nums[0];
-        for(int i=1; i<nums.length; i++){
-            if(nums[i]!=nums[i-1]){
-                cur=0;
+        Map<Integer, Integer> map = new HashMap<>();
+        int maxCount = Integer.MIN_VALUE;
+        int maxElem = nums[0];
+        for (int num:nums){
+            map.put(num, map.getOrDefault(num,0)+1);
+        }
+        for(int key:map.keySet()){
+            if(map.get(key)>maxCount ){
+                maxCount = map.get(key);
+                maxElem = key;
             }
-            cur++;
-            if(cur>maxLen){
-                maxLen=cur;
-                maxElem=nums[i];
-            }
-            if(maxLen>nums.length/2) break;
         }
         return maxElem;
     }
