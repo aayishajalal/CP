@@ -30,6 +30,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayishajalal/CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aayishajalal/CP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/aayishajalal/CP/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aayishajalal/CP/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aayishajalal/CP/tree/master/0485-max-consecutive-ones) |
 | [0824-number-of-lines-to-write-string](https://github.com/aayishajalal/CP/tree/master/0824-number-of-lines-to-write-string) |
@@ -142,6 +143,7 @@
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aayishajalal/CP/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aayishajalal/CP/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aayishajalal/CP/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/aayishajalal/CP/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/aayishajalal/CP/tree/master/1018-largest-perimeter-triangle) |
@@ -170,6 +172,7 @@
 | [0036-valid-sudoku](https://github.com/aayishajalal/CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aayishajalal/CP/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aayishajalal/CP/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/aayishajalal/CP/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aayishajalal/CP/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/aayishajalal/CP/tree/master/0409-longest-palindrome) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
@@ -327,6 +330,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayishajalal/CP/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/aayishajalal/CP/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/aayishajalal/CP/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aayishajalal/CP/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -570,4 +574,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aayishajalal/CP/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aayishajalal/CP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
