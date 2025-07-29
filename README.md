@@ -238,6 +238,7 @@
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aayishajalal/CP/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1751-slowest-key](https://github.com/aayishajalal/CP/tree/master/1751-slowest-key) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/aayishajalal/CP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/aayishajalal/CP/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aayishajalal/CP/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/aayishajalal/CP/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -304,6 +305,7 @@
 | [0071-simplify-path](https://github.com/aayishajalal/CP/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aayishajalal/CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/aayishajalal/CP/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/aayishajalal/CP/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/aayishajalal/CP/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aayishajalal/CP/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/aayishajalal/CP/tree/master/1502-construct-k-palindrome-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/aayishajalal/CP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aayishajalal/CP/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/aayishajalal/CP/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/aayishajalal/CP/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
